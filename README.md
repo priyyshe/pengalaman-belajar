@@ -23,3 +23,6 @@ Halo
 
 Perubahan dari branch development
 Perubahan dari branch main
+
+Latihan code review
+
